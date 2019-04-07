@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PlanyTreningowe">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/planTreningowy1Btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Plan treningowy #1" />
+
+        <Button
+            android:id="@+id/planTreningowy2Btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Plan treningowy #2" />
+
+        <Button
+            android:id="@+id/planTreningowy3Btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Plan treningowy #3" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TIZZZEIK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cwiczenie">Cwiczenie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="planTreningowy1_opis">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="planTreningowy1_zalecenia">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="planTreningowy1_przeciwwskazania"> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="planTreningowy2_opis">Morbi rutrum tellus id leo suscipit, pellentesque fermentum elit commodo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="planTreningowy2_zalecenia">   Praesent rhoncus magna sit amet pulvinar hendrerit. Nunc pellentesque ut massa at dignissim. Mauris sed cursus eros, et cursus risus. Praesent ante justo, pulvinar tempus gravida vitae, rutrum eu quam.</string>
+    <string name="planTreningowy2_przeciwwskazania">  Donec nisl ligula, auctor a fermentum eget, ultricies in justo. Mauris lacinia elit eget maximus semper. Phasellus nec lorem euismod, porta urna a, consectetur velit. Nam a bibendum neque. Sed facilisis ligula non nibh iaculis ullamcorper. Donec dui felis, volutpat non arcu vitae, maximus auctor tellus.</string>
+
+    <string name="planZywieniowy1_opis">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…</string>
+    <string name="planZywieniowy1_zalecenia">Sed at molestie purus, id lacinia turpis. Donec porta, augue nec pharetra tincidunt, urna ipsum varius ipsum, vulputate efficitur tortor. </string>
+    <string name="planZywieniowy1_przeciwwskazania">Aliquam erat volutpat. In hac habitasse platea dictumst. Sed id enim et dolor tincidunt aliquam a a tortor. Mauris ut. </string>
+
+    <string name="planZywieniowy2_opis">Ut pretium ultricies ex porttitor volutpat. Nullam ullamcorper tellus ut augue malesuada, sit amet dapibus tortor suscipit. Proin sodales risus lorem. Morbi leo ligula, ultricies faucibus iaculis et, blandit iaculis eros. Quisque sed tortor at dui euismod ultricies eu in ex</string>
+    <string name="planZywieniowy2_zalecenia">Nam feugiat libero ut eros finibus iaculis. Curabitur iaculis ullamcorper eros eu malesuada. Cras sed feugiat nunc. Integer vitae venenatis est. </string>
+    <string name="planZywieniowy2_przeciwwskazania"> Vestibulum blandit accumsan ligula a consequat. Fusce lectus sem, venenatis eget aliquam at, elementum et diam. Phasellus sit amet justo sed enim rutrum luctus.</string>
+
+</resources>
